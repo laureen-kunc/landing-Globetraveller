@@ -1,0 +1,14 @@
+.btn-blue {
+	background-color: skyblue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: darkblue;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-lightblue {
+	background-color: lightblue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
